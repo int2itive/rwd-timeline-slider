@@ -98,6 +98,7 @@ body {
 .timeline .swiper-slide .timeline-text {
   font-family: "Roboto Condensed", sans-serif;
   font-size: 14px;
+  font-size: 1.4em;
   font-weight: 300;
   line-height: 1.5;
   opacity: 0;
